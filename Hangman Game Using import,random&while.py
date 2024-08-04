@@ -1,4 +1,4 @@
-Project no 3 - Hangman Game
+#Project no 3 - Hangman Game
 
 import random
 import Hangman_stages
